@@ -67,8 +67,6 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
-      - name: Install Dependencies
-        run:  update rexml
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
