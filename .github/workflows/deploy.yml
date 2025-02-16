@@ -67,6 +67,8 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+      - name: Install Bundler
+        run: gem install bundler
       - name: Install Dependencies
         run: bundle install
       - name: Update REXML
