@@ -147,12 +147,12 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 announcements:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Arellano]
+  first_name: [Aldo, A.]
 
   style: apa
   locale: en
