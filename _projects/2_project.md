@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implicating microbes in regulation of host phenology
-description: a project with a background image and giscus comments
+description: Exploring the division of metabolic labor between hosts and microbes during hibernal diapause in the pitcher plant mosquito (Wyeomyia smithii)
 img: assets/img/3.jpg
 importance: 2
 category: current

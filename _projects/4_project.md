@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Integrative study of Prochlorococcus
-description: another without an image
+description: Systems biology approach to the study of the most numerically abundant phototroph in the global oceans
 img:
 importance: 3
 category: past
