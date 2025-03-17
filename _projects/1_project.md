@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Trophic ecology of host-microbe interactions
+description: Leveraging the pitcher plant mosquito as a model
 img: assets/img/12.jpg
 importance: 1
 category: work
