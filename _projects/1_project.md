@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trophic ecology of host-microbe interactions
-description: Leveraging the pitcher plant mosquito as a model
+title: Ecological context of host-microbe interactions
+description: Identifying eco-evolutionary feedbacks in the regulation of ecosystem function in microbial communities hosted by the purple pitcher plant
 img: assets/img/12.jpg
 importance: 1
 category: current
