@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Integrative study of Prochlorococcus
+title: Integrative study of marine phytoplankton and bacterioplankton
 description: Systems biology approach to the study of the most numerically abundant phototroph in the global oceans
 img:
 importance: 3
