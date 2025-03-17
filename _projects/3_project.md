@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microbiomes in natural sympatric populations
+title: Microbiomes in sympatric populations
 description: Identifying environmental and host-specific drivers of bacterial symbiont composition in natural populations of sympatric Daphniidae
 img: assets/img/7.jpg
 redirect: https://unsplash.com
