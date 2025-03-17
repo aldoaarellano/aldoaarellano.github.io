@@ -204,6 +204,12 @@
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PRESS</a>
         {% endif %}
+      {% if entry.doi %}
+        {% if entry.doi contains '://' %}
+          <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% else %}
+          <a href="{{ entry.doi | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% endif %}
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
@@ -278,8 +284,6 @@
                 data-arxiv-id="{{ entry.arxiv }}"
               {% elsif entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
-              {% elsif entry.doi %}
-                data-doi="{{ entry.doi }}"
               {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
               {% elsif entry.isbn %}
