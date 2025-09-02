@@ -50,5 +50,3 @@ Arellano, A.A. & Coon K.L. (2022). Bacterial communities in carnivorous pitcher 
 
 * authors contributed equally
 † undergraduate mentee
-
-{% endraw %}
