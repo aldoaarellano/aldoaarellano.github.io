@@ -14,28 +14,6 @@ Increasingly, fleeting host-microbe interactions are appreciated for their abili
 
 For my PhD work I used the aquatic communities housed by carnivorous <i>Sarracenia purpurea<i> pitcher plants to explore these topics. I focused on an obligate inhabitant of these communities, the pitcher plant mosquito, <i>Wyeomyia smithii<i>, and its environmentally-recruited microbiota to ask questions about top-down control of community assembly, ecosystem function, and eco-evolutionary feedbacks between hosts and aquatic microbial communities. I first developed <i>W. smithii<i> as a tractable model in the laboratory, generating germ-free individuals and selectively recolonizing them with pitcher-derived bacteria. I showed that <i>W. smithii<i> hosts a dynamic microbiome over development and that these microbes are essential for host growth. Next, I explored the potential for <i>W. smithii<i> to structure community assembly and function of microbial communities across a natural population of <i>S. purpurea<i>. I demonstrated through manipulation of mosquito density that top-down effects by <i>W. smithii<i> impact essential ecosystem function and bacterial composition in pitchers. Lastly, I considered the importance of <i>W. smithii<i> structuring of ambient microbial pools on host development. I characterized conserved taxonomic signals of host curation at multiple host life stages concomitant with increases in host fitness, supportive of a likely conserved and underappreciated environmental modality by which hosts can adaptively shape their associated microbiomes.  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.jpg" title="example  </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -47,6 +25,11 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
