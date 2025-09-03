@@ -1,81 +1,13 @@
 ---
 layout: page
 title: Implicating microbes in regulation of host phenology
-description: Exploring the division of metabolic labor between hosts and microbes during hibernal diapause in the pitcher plant mosquito (Wyeomyia smithii)
+description: Exploring the division of metabolic labor between hosts and microbes during hibernal diapause in the pitcher plant mosquito (<i>Wyeomyia smithii</i>)
 img: assets/img/3.gif
 importance: 2
 category: current
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+It is fundamentally important for organisms to coordinate developmental and behavioral milestones throughout their lifetimes in accordance with the abiotic and biological conditions of their environment. This may take the form of seasonality of reproduction (<i>e.g.</i>, reproduce in the spring) or periods of reduced metabolic activity (<i>e.g.</i>, hibernate in the winter). However, it is no small task to accurately anticipate the onset of environmental conditions, requiring  integration of complex cues like temperature and day length (<i>i.e.</i>, photoperiod). The cost of incorrectly anticipating the changing of the seasons is steep, not only in terms of having organismal physiology appropriate for local conditions, but also for matching the seasonal dynamics of other organisms with which an organism may interact. For example, it would be disadvantageous for a plant to flower in the absence of its insect pollinators. The seasonal timing of life history events is known as phenology, and cases where interacting organisms are misaligned in their timing are known as phenological mismatch.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Global change can drive phenological mismatch, with errant temperature events eliciting an inappropriate change in organismal biology or the early onset of warm temperatures contradicting the locally-adapted response to day length. What is unknown is whether or not microbes might play a role in buffering organismal response to global change (<i>e.g.</i>, offering an extended phenotype which may confer more adaptive plasticity) or the role host-associated microbes play in coordinating seasonal phenology in the first place. In my PhD I began work in the pitcher plant mosquito to explore the essentiality of microbes to coordinate host hibernal diapause (some mosquito larvae go to sleep for the winter!) and on-going work is exploring the division of metabolic labor in the overwintering mosquito host.  
