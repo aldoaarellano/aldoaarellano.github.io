@@ -13,9 +13,10 @@ The fields of environmental microbiology and host-microbe interactions have long
 Increasingly, fleeting host-microbe interactions are appreciated for their ability to prime host immunity, supplement nutrition, and coordinate development. Several marine invertebrates are induced to settle by non-specific stimuli, including bacterial lipopolysaccharides. Mosquito larvae initiate development in response to microbe-derived B vitamins. Can such non-specific systems show hallmarks of host-microbe co-evolution? Can these relationships be adaptive in their variability (from the host or the microbe perspective) or are some aspects of these interactions cryptically conserved (taxonomically or functionally)?
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <div class="row justify-content-center">
+  <div class="col-md-6 col-sm-8">
+    {% include figure.liquid path="assets/img/13.png" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption">
     Mosquitoes spend their whole lives, from egg to adulthood, in the presence of microbes which provide essential signaling for development (constitutive requirement in larvae) and nutrition through direct bacterivory (context-dependent requirement for larvae). Developing in this complex milieu, what other ecological interactions might be at play as both host and microbe are continuously exposed to the other? 
