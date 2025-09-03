@@ -44,11 +44,11 @@ Associated references:
 
 Arellano, A.A., Kashuk, J.†, Lee, J. †, Young, E.B., Coon, K.L. Functional and cross-trophic impacts of bacterial-fungal succession in an aquatic microecosystem. <i>(In prep)</i>
 
-Arellano, A.A.*, Prack, J.L.*, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>In revision at The ISME Journal</i>
+Arellano, A.A.&#42, Prack, J.L.&#42, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>In revision at The ISME Journal</i>
 
 Arellano, A. A., Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modulates microbial diversity and function in an aquatic microecosystem. <i>Molecular Ecology</i>.
 
 Arellano, A.A. & Coon K.L. (2022). Bacterial communities in carnivorous pitcher plants colonize and persist in inquiline mosquitoes. <i>Animal Microbiome</i>.
 
-* authors contributed equally
+&#42 authors contributed equally<br><br>
 † undergraduate mentee
