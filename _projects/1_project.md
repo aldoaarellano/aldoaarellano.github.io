@@ -2,7 +2,7 @@
 layout: page
 title: Ecological context of host-microbe interactions
 description: Identifying eco-evolutionary feedbacks in the regulation of ecosystem function in microbial communities hosted by the purple pitcher plant
-img: assets/img/12.jpg
+img: assets/img/project_1_cover.jpg
 importance: 1
 category: current
 related_publications: false
@@ -50,5 +50,5 @@ Arellano, A. A., Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modul
 
 Arellano, A.A. & Coon K.L. (2022). Bacterial communities in carnivorous pitcher plants colonize and persist in inquiline mosquitoes. <i>Animal Microbiome</i>.
 
-\* authors contributed equally<br><br>
+\* authors contributed equally<br>
 † undergraduate mentee
