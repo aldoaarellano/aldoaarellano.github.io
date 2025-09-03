@@ -18,7 +18,19 @@ Global change can drive phenological mismatch, with errant temperature events el
       {% include figure.liquid path="assets/img/diapause_cycle.png" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    W. smithii mosquitoes undergo photoperiod-programmed diapause during the onset of winter, when day lengths get short, these mosquitoes go to sleep! Individuals overwinter as third instar larvae, sometimes completely freezing in the water-filled pitchers where they live. Our research hopes to elucidate the importance of microbes in host coordination of diapause. We will also explore the microbe- and host-derived products that differentiate the host active state and diapause. 
+    <i>W. smithii</i> mosquitoes undergo photoperiod-programmed diapause during the onset of winter, when day lengths get short, these mosquitoes go to sleep! Individuals overwinter as third instar larvae, sometimes completely freezing in the water-filled pitchers where they live. Our research hopes to elucidate the importance of microbes in host coordination of diapause. We will also explore the microbe- and host-derived products that differentiate the host active state and diapause. 
    </div>
 </div>
 </div>  
+
+Work in the diapausing mosquito system will also be conducted across temperatures, to more accurately explore the effects of mismatched seasonal cues on diapause survival and host-associated microbiota (<i>e.g.</i>, warm temperatures during diapause). This work is only possible through on-going collaboration with PhD student Heidi McKee in Dr. Kerri Coon's Lab of Vector Biology and Microbiology.
+
+Associated References
+
+Arellano, A.A.\*, McKee, H.\*, Lee, J. †, Prack, J.P.†, Young, E.B., Coon, K.L. Bacterial community composition and function associated with population bottlenecks and temperature during pitcher plant mosquito seasonal metabolism. <i>(In prep)</i>
+
+McKee, H.\*, Arellano, A.A.\*, Lee, J. †, Young, E.B., Coon, K.L. Host-microbe divisions of labor during seasonal metabolism revealed by global metabolomics and microbiota swaps. <i>(In prep)</i>
+
+\* authors contributed equally<br>
+† undergraduate mentee
+
