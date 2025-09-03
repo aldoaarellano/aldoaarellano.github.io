@@ -5,7 +5,7 @@ description: Exploring the division of metabolic labor between hosts and microbe
 img: assets/img/3.gif
 importance: 2
 category: current
-giscus_comments: true
+giscus_comments: false
 ---
 
 It is fundamentally important for organisms to coordinate developmental and behavioral milestones throughout their lifetimes in accordance with the abiotic and biological conditions of their environment. This may take the form of seasonality of reproduction (<i>e.g.</i>, reproduce in the spring) or periods of reduced metabolic activity (<i>e.g.</i>, hibernate in the winter). However, it is no small task to accurately anticipate the onset of environmental conditions, requiring  integration of complex cues like temperature and day length (<i>i.e.</i>, photoperiod). The cost of incorrectly anticipating the changing of the seasons is steep, not only in terms of having organismal physiology appropriate for local conditions, but also for matching the seasonal dynamics of other organisms with which an organism may interact. For example, it would be disadvantageous for a plant to flower in the absence of its insect pollinators. The seasonal timing of life history events is known as phenology, and cases where interacting organisms are misaligned in their timing are known as phenological mismatch.
