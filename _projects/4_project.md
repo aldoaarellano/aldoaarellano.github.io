@@ -20,7 +20,7 @@ In terms of <i>Prochlorococcus</i> as a driver of genetic diversity, I first con
       {% include figure.liquid path="assets/img/tycheposon.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    (<i>Top</i>) Model for light stress-induced mispacking of host genome into empty phage capsids from Laurenceau <i>et al</i> 2021. (<i>Bottom</i>) Graphical abstract from Hackl <i>et al</i> 2023 describing novel integrative elements, tycheposons that are enriched in vesicles and phage particles.  
+    (<i>Left</i>) Model for light stress-induced mispacking of host genome into empty phage capsids from Laurenceau <i>et al</i> 2021. (<i>Right</i>) Graphical abstract from Hackl <i>et al</i> 2023 describing novel integrative elements, tycheposons, that are enriched in vesicles and phage particles.  
    </div>
 </div>
 </div>
@@ -29,24 +29,33 @@ I also contributed to work describing how metabolic products derived from <i>Pro
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/batch_culture.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/particle.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/12.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vesicle_phage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <i>(Left)</i> An adult <i>W.smithii</i> mosquito perched on a rather small pitcher. <i>(Middle)</i> I use eco-evolutionary frameworks like niche construction theory to consider the modalities by which hosts might heritably manipulate their environments.<i>(Right)</i> A pitcher poses for a photo, its extrafloral nectary inviting unsuspecting insect prey.    
+    <i>(Left)</i> Batch culture growth of marine heterotrophs for downstream enrichment of extracellular vesicles with tangential flow filtration and density gradient centrifugation. <i>(Middle)</i> Nanoparticle tracking allows for quantification of particles in the expected size fraction of vesicles. <i>(Right)</i> TEM micrograph of phage in direct contact with <i>Prochlorococcus</i> vesicle from Biller <i>et al Science</i> 2014.     
 </div>
 
 Another fundamental area we set out to explore in the <i>Prochlorococcus</i> system was ability of this group of organisms to survive periods of extended darkness. This was of interest given the high sensitivity of pure cultures to variation in light levels, yet the dynamic conditions of light availability in the global oceans due to intermittent mixing below the euphotic zone. In a pair of recent papers, we first described an as-yet undetermined epigenetic mechanism by which <i>Prochlorococcus</i> is able to heritably acquire dark tolerance. Next, we used transcriptomics to describe how metabolic coupling to "helper bacteria" in the ocean underlies this shift to dark tolerance. <i>Prochlorococcus</i> downregulated photosynthesis and upregulated respiration and biosynthesis concomitant with a co-occurring helper bacterium upregulating its consumption of organic acids, suggesting enhanced carbon exchange. These observations were supportive of the idea that overflow metabolism from marine heterotrophs sustains <i>Prochlorococcus</i> through dark stress long enough to enable its epigenetic adaptation.
 
-placeholder 
+Lastly, I contributed to work linking <i>Prochlorococcus</i> exudates (purines and pyrimidines) and nitrogen specialization by members of <i>Pelagibacter ubique</i> in the global oceans. <i>Prochlorococcus</i> rhythmically exudes purines and pyrimidines, likely related to daily genome replication. Co-occurring heterotrophs appear to specialize in consuming these exudates either as generalists or purine/pyrimidine specialists, which supports elemental cycling and emerging cryptic nitrogen loops across ocean regions. While these hypotheses could be gleaned from sequencing data, we further utilized a pure culture of <i>Pelagibacter ubique</i>) and media amendments of adenine to demonstrate delayed DNA synthesis, supportive of the hypothesis that marine heterotrophs sync replication to the timing of photosynthate availability from phytoplankton like <i>Prochlorococcus</i>.
 
-Lastly, I contributed to work linking <i>Prochlorococcus</i> exudates (purines and pyrimidines) and nitrogen specialization by members of <i>Pelagibacter ubique</i> in the global oceans. <i>Prochlorococcus</i> rhythmically exudes purines and pyrimidines, likely related to daily genome replication. Co-occurring heterotrophs appear to specialize in consuming these exudates either as generalists or purine/pyrimidine specialists, which supports elemental cycling and emerging cryptic nitrogen loops across ocean regions. While these hypotheses could be gleaned from sequencing data, we further utilized cultures of SAR11 (a member of <i>Pelagibacter ubique</i>) and media amendments of  adenine to demonstrate delayed DNA synthesis, supportive of the hypothesis that marine heterotrophs sync replication to the timing of photosynthate availability from phytoplankton like <i>Prochlorococcus</i>.
+<div class="row">
+  <div class="row justify-content-center">
+    <div class="col-md-6 col-sm-8">
+      {% include figure.liquid path="assets/img/n_cycle.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="caption">
+    Proposed model of cryptic nitrogen cycling from Braakman <i>et al</i> 2025. Underlined metabolites are breakdown products of purine assimilation inferred to be used by <i>Pelagibacter</i>, while those in blue are potentially involved in cross-feeding. For example, urea produced by <i>Pelagibacter</i> is likely used by members of <i>Prochlorococcus</i> and other major groups of marine microbes as many <i>Pelagibacter</i> lack urease. 
+   </div>
+</div>
+</div>
 
 Associated references:
 

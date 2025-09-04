@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Spatiotemporal dynamics of diverse taxa in Lake Myvatn
+layout: 
+title: 
 description: 
-img: assets/img/aldo_myvatn.jpg
-importance: 3
+img: 
+importance: 
 category:
 ---
 
