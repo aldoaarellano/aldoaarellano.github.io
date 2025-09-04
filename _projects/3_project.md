@@ -38,4 +38,7 @@ In the longer term, I am interested in the broader phenomenon of niche different
 Associated references:
 
 <b>Arellano A.A.</b>\*, Cooper R.O.\*, Hite J.L., Dziuba M.K., Cressler C.E., Duffy M.A. Environmental and species-specific features of microbiome assembly in wild daphnids. <i> (In prep)</i>
+
+\* authors contributed equally
+
  
