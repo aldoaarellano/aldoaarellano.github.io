@@ -27,9 +27,9 @@ Work in the diapausing mosquito system will also be conducted across temperature
 
 Associated references:
 
-Arellano, A.A.\*, McKee, H.\*, Lee, J. †, Prack, J.P.†, Young, E.B., Coon, K.L. Bacterial community composition and function associated with population bottlenecks and temperature during pitcher plant mosquito seasonal metabolism. <i>(In prep)</i>
+<b>Arellano, A.A.</b>\*, McKee, H.\*, Lee, J. †, Prack, J.P.†, Young, E.B., Coon, K.L. Bacterial community composition and function associated with population bottlenecks and temperature during pitcher plant mosquito seasonal metabolism. <i>(In prep)</i>
 
-McKee, H.\*, Arellano, A.A.\*, Lee, J. †, Young, E.B., Coon, K.L. Host-microbe divisions of labor during seasonal metabolism revealed by global metabolomics and microbiota swaps. <i>(In prep)</i>
+McKee, H.\*, <b>Arellano, A.A.</b>\*, Lee, J. †, Young, E.B., Coon, K.L. Host-microbe divisions of labor during seasonal metabolism revealed by global metabolomics and microbiota swaps. <i>(In prep)</i>
 
 \* authors contributed equally<br>
 † undergraduate mentee

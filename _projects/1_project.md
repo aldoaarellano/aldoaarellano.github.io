@@ -42,13 +42,15 @@ For my PhD work I used the aquatic communities housed by carnivorous <i>Sarracen
 
 Associated references:
 
-Arellano, A.A., Kashuk, J.†, Lee, J. †, Young, E.B., Coon, K.L. Functional and cross-trophic impacts of bacterial-fungal succession in an aquatic microecosystem. <i>(In prep)</i>
+<b>Arellano, A.A.</b>, Kashuk, J.†, Lee, J. †, Young, E.B., Coon, K.L. Functional and cross-trophic impacts of bacterial-fungal succession in an aquatic microecosystem. <i>(In prep)</i>
 
-Arellano, A.A.\*, Prack, J.L.\*, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>In revision at The ISME Journal</i>
+<b>Arellano, A.A.</b>\*, Prack, J.L.\*, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>In revision at The ISME Journal</i>
 
-Arellano, A. A., Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modulates microbial diversity and function in an aquatic microecosystem. <i>Molecular Ecology</i>.
+<b>Arellano, A. A.</b>, Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modulates microbial diversity and function in an aquatic microecosystem. <i>Molecular Ecology</i>.
 
-Arellano, A.A. & Coon K.L. (2022). Bacterial communities in carnivorous pitcher plants colonize and persist in inquiline mosquitoes. <i>Animal Microbiome</i>.
+<b>Arellano, A.A.</b> & Coon K.L. (2022). Bacterial communities in carnivorous pitcher plants colonize and persist in inquiline mosquitoes. <i>Animal Microbiome</i>.
+
+<b>Arellano, A.A.</b>\*, Sommer, A.J.\*, & Coon, K.L. (2022). Beyond canonical models: Why a broader understanding of Diptera-microbiota interactions is essential for vector-borne disease control. Evolutionary ecology.
 
 \* authors contributed equally<br>
 † undergraduate mentee

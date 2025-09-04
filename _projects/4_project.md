@@ -50,21 +50,21 @@ Lastly, I contributed to work linking <i>Prochlorococcus</i> exudates (purines a
 
 Associated references:
 
-Coe, A., Mullet, J.I.,Vo, N.N., Berube, P.M., Anjur-Dietrich, M.I., and Salcedo, E., Parker, S.M., VonEmster, K., Bliem, C., Arellano, A.A., Castro, K.G., Becker, J.W., & Chisholm, S.W. (2025). ProSynTaxDB: A curated protein database and workflow for taxonomic classification of <i>Prochlorococcus</i> and <i>Synechococcus</i> in metagenomes. <i>In revision at Scientific Data</i>
+Coe, A., Mullet, J.I.,Vo, N.N., Berube, P.M., Anjur-Dietrich, M.I., and Salcedo, E., Parker, S.M., VonEmster, K., Bliem, C., <b>Arellano, A.A.</b>, Castro, K.G., Becker, J.W., & Chisholm, S.W. (2025). ProSynTaxDB: A curated protein database and workflow for taxonomic classification of <i>Prochlorococcus</i> and <i>Synechococcus</i> in metagenomes. <i>In revision at Scientific Data</i>
 
-Braakman, R., Satinsky, B., O'Keefe, T. J., Longnecker, K., Hogle, S.L., Becker, J. W., Dooley, K., Arellano A.A., Kido Soule, M.C., Kujawinski, E.B., & Chisholm, S. W. (2025). Global niche partitioning of purine and pyrimidine cross-feeding among ocean microbes. <i>Science Advances<i>.
+Braakman, R., Satinsky, B., O'Keefe, T. J., Longnecker, K., Hogle, S.L., Becker, J. W., Dooley, K., <b>Arellano A.A.</b>, Kido Soule, M.C., Kujawinski, E.B., & Chisholm, S. W. (2025). Global niche partitioning of purine and pyrimidine cross-feeding among ocean microbes. <i>Science Advances<i>.
 
-Coe, A., Braakman, R., Biller, S.J., Arellano,A.A., Bliem,C., Vo,N.N., von Emster,K., Thomas, E., DeMers, M., Steglich, C., Huisman, J., & Chisholm, S.W. (2024). Emergence of metabolic coupling to the heterotroph Alteromonas promotes dark survival in Prochlorococcus. <i>ISME Communications</i>.
+Coe, A., Braakman, R., Biller, S.J., <b>Arellano,A.A.</b>, Bliem,C., Vo,N.N., von Emster,K., Thomas, E., DeMers, M., Steglich, C., Huisman, J., & Chisholm, S.W. (2024). Emergence of metabolic coupling to the heterotroph Alteromonas promotes dark survival in Prochlorococcus. <i>ISME Communications</i>.
 
-Becker, J. W., Pollak, S., Berta-Thompson, J. W., Becker, K. W., Braakman, R., Dooley, K. D., Hackl, T., Coe, A., Arellano, A.A., LeGault, K.N., Berube, P.M., Biller, S.J., Cubilloz-Ruiz, A.,Van Mooy, B.A.S., & Chisholm, S. W. (2024). Novel isolates expand the physiological diversity of Prochlorococcus and illuminate its macroevolution. <i>mBio</i>.
+Becker, J. W., Pollak, S., Berta-Thompson, J. W., Becker, K. W., Braakman, R., Dooley, K. D., Hackl, T., Coe, A., <b>Arellano, A.A.</b>, LeGault, K.N., Berube, P.M., Biller, S.J., Cubilloz-Ruiz, A.,Van Mooy, B.A.S., & Chisholm, S. W. (2024). Novel isolates expand the physiological diversity of Prochlorococcus and illuminate its macroevolution. <i>mBio</i>.
 
-Biller, S.J., Coe, A., Arellano, A.A., Dooley, K., Gong, J., Yeager, E.A., Becker, J.W., & Chisholm, S.W. (2023). Environmental and taxonomic drivers of microbial vesicle production in marine ecosystems. <i>Applied and Environmental Microbiology</i>.
+Biller, S.J., Coe, A., <b>Arellano, A.A.</b>, Dooley, K., Gong, J., Yeager, E.A., Becker, J.W., & Chisholm, S.W. (2023). Environmental and taxonomic drivers of microbial vesicle production in marine ecosystems. <i>Applied and Environmental Microbiology</i>.
 
 Hackl, T, Laurenceau, R, Ankenbrand, M.J., Bliem, C, Cariani, Z, Thomas, E, Dooley, K.D., Arellano, A.A., Hogle, S.L., Berube, P.M., Leventhal, G.E., Luo, E, Eppley, J, Zayed, A.A., Beaulaurier, J, Stephanauskas, R, Sullivan, M.B., Delong, E.F., Biller, S.J., & Chisholm, S.W. (2023). Novel integrative elements and genomic plasticity in ocean ecosystems. <i>Cell</i>.
 
-Biller, S.J., Lundeen, R.A., Hmelo, L.R., Becker, K.W., Arellano, A.A., Dooley, K., Heal, K.R., Carlson, L.T., Van Mooy, B.A.S., Ingalls, A.E., & Chisholm, S.W. (2021). Prochlorococcus extracellular vesicles: molecular composition and adsorption to diverse microbes. <i>Environmental Microbiology</i>.
+Biller, S.J., Lundeen, R.A., Hmelo, L.R., Becker, K.W., <b>Arellano, A.A.</b>, Dooley, K., Heal, K.R., Carlson, L.T., Van Mooy, B.A.S., Ingalls, A.E., & Chisholm, S.W. (2021). Prochlorococcus extracellular vesicles: molecular composition and adsorption to diverse microbes. <i>Environmental Microbiology</i>.
 
-Coe, A., Biller, S.J., Thomas, E., Boulias, K., Bliem, C., Arellano, A.A., Dooley, K., Rasmussen, A.N., LeGault, K., O'Keefe, T.J., Stover, S., Greer, E.L., & Chisholm, S.W. (2021). Coping with darkness: The adaptive response of marine picocyanobacteria to repeated light energy deprivation. <i>Limnology and Oceanography</i>.
+Coe, A., Biller, S.J., Thomas, E., Boulias, K., Bliem, C., <b>Arellano, A.A.</b>, Dooley, K., Rasmussen, A.N., LeGault, K., O'Keefe, T.J., Stover, S., Greer, E.L., & Chisholm, S.W. (2021). Coping with darkness: The adaptive response of marine picocyanobacteria to repeated light energy deprivation. <i>Limnology and Oceanography</i>.
 
-Laurenceau, R., Raho, N., Forget, M., Arellano, A. A., & Chisholm, S. W. (2021). Frequency of mispackaging of Prochlorococcus DNA by cyanophage. <i>The ISME Journal</i>.
+Laurenceau, R., Raho, N., Forget, M., <b>Arellano, A. A.</b>, & Chisholm, S. W. (2021). Frequency of mispackaging of Prochlorococcus DNA by cyanophage. <i>The ISME Journal</i>.
 
