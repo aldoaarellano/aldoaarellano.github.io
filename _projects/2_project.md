@@ -25,7 +25,7 @@ Global change can drive phenological mismatch, with errant temperature events el
 
 Work in the diapausing mosquito system will also be conducted across temperatures, to more accurately explore the effects of mismatched seasonal cues on diapause survival and host-associated microbiota (<i>e.g.</i>, warm temperatures during diapause). This work is only possible through on-going collaboration with PhD student Heidi McKee in Dr. Kerri Coon's Lab of Vector Biology and Microbiology.
 
-Associated References
+Associated references:
 
 Arellano, A.A.\*, McKee, H.\*, Lee, J. †, Prack, J.P.†, Young, E.B., Coon, K.L. Bacterial community composition and function associated with population bottlenecks and temperature during pitcher plant mosquito seasonal metabolism. <i>(In prep)</i>
 
