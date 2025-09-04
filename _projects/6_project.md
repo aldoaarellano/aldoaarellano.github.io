@@ -2,7 +2,7 @@
 layout: page
 title: Microbial and trophic ecology of invasive species
 description: Exploring the microbial dimension of zebra mussel invasion in the Great Lakes
-img:
+img: assets/img/mussel.png
 importance: 4
 category: current
 ---
