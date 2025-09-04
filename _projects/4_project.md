@@ -2,7 +2,7 @@
 layout: page
 title: Integrative study of marine microbial communities
 description: Systems biology approach to the study of the most numerically abundant phototroph in the global oceans
-img:assets/img/pro.jpg
+img: assets/img/pro.jpg
 importance: 3
 category: past
 ---
