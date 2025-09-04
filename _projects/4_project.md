@@ -69,7 +69,7 @@ Becker, J. W., Pollak, S., Berta-Thompson, J. W., Becker, K. W., Braakman, R., D
 
 Biller, S.J., Coe, A., <b>Arellano, A.A.</b>, Dooley, K., Gong, J., Yeager, E.A., Becker, J.W., & Chisholm, S.W. (2023). Environmental and taxonomic drivers of microbial vesicle production in marine ecosystems. <i>Applied and Environmental Microbiology</i>.
 
-Hackl, T, Laurenceau, R, Ankenbrand, M.J., Bliem, C, Cariani, Z, Thomas, E, Dooley, K.D., Arellano, A.A., Hogle, S.L., Berube, P.M., Leventhal, G.E., Luo, E, Eppley, J, Zayed, A.A., Beaulaurier, J, Stephanauskas, R, Sullivan, M.B., Delong, E.F., Biller, S.J., & Chisholm, S.W. (2023). Novel integrative elements and genomic plasticity in ocean ecosystems. <i>Cell</i>.
+Hackl, T, Laurenceau, R, Ankenbrand, M.J., Bliem, C, Cariani, Z, Thomas, E, Dooley, K.D., <b>Arellano, A.A.</b>, Hogle, S.L., Berube, P.M., Leventhal, G.E., Luo, E, Eppley, J, Zayed, A.A., Beaulaurier, J, Stephanauskas, R, Sullivan, M.B., Delong, E.F., Biller, S.J., & Chisholm, S.W. (2023). Novel integrative elements and genomic plasticity in ocean ecosystems. <i>Cell</i>.
 
 Biller, S.J., Lundeen, R.A., Hmelo, L.R., Becker, K.W., <b>Arellano, A.A.</b>, Dooley, K., Heal, K.R., Carlson, L.T., Van Mooy, B.A.S., Ingalls, A.E., & Chisholm, S.W. (2021). Prochlorococcus extracellular vesicles: molecular composition and adsorption to diverse microbes. <i>Environmental Microbiology</i>.
 
