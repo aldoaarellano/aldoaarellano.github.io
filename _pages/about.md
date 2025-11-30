@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5032 Biological Sciences Building</p><br>
+    <p>5032 BSB</p><br>
     <p>1105 N University Ave</p>
     <p>Ann Arbor, MI 48109</p> <br><br><br>
 
