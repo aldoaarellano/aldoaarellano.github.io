@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://seas.umich.edu/globalchangebiology/'>Institute for Global Change Biology</a><br>
-<a href='https://ciglr.seas.umich.edu/'> Cooperative Institute for Great Lakes Research</a><br>
+<a href='https://ciglr.seas.umich.edu/'>Cooperative Institute for Great Lakes Research</a><br>
 <a href='https://duffylab.wordpress.com/'>Duffy Lab at the University of Michigan</a>
 
 profile:
