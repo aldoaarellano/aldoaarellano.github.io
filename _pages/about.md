@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ciglr.seas.umich.edu/'>Institute for Global Change Biology</a><br><a href='https://seas.umich.edu/globalchangebiology</a><br><a href='https://duffylab.wordpress.com/'>Duffy Lab at the University of Michigan</a>
-
+subtitle: <a href='https://seas.umich.edu/globalchangebiology'>Institute for Global Change Biology</a><br>
+<a href='https://ciglr.seas.umich.edu/'> Cooperative Institute for Great Lakes Research</a><br>
+<a href='https://duffylab.wordpress.com/'>Duffy Lab at the University of Michigan</a>
 
 profile:
   align: right
@@ -15,7 +16,7 @@ profile:
     <p>Ann Arbor, MI 48109</p> <br><br><br>
 
 news: # true # includes a list of news items
-selected_papers: # true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
