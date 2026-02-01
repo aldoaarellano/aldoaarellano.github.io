@@ -59,7 +59,7 @@ Lastly, I contributed to work linking <i>Prochlorococcus</i> exudates (purines a
 
 Associated references:
 
-Coe, A., Mullet, J.I.,Vo, N.N., Berube, P.M., Anjur-Dietrich, M.I., and Salcedo, E., Parker, S.M., VonEmster, K., Bliem, C., <b>Arellano, A.A.</b>, Castro, K.G., Becker, J.W., & Chisholm, S.W. (2025). ProSynTaxDB: A curated protein database and workflow for taxonomic classification of <i>Prochlorococcus</i> and <i>Synechococcus</i> in metagenomes. <i>In revision at Scientific Data</i>
+Coe, A., Mullet, J.I.,Vo, N.N., Berube, P.M., Anjur-Dietrich, M.I., and Salcedo, E., Parker, S.M., VonEmster, K., Bliem, C., <b>Arellano, A.A.</b>, Castro, K.G., Becker, J.W., & Chisholm, S.W. (2025). A curated protein dataset for taxonomic classification of <i>Prochlorococcus</i> and <i>Synechococcus</i> in metagenomes. <i>Scientific Data</i>
 
 Braakman, R., Satinsky, B., O'Keefe, T. J., Longnecker, K., Hogle, S.L., Becker, J. W., Dooley, K., <b>Arellano A.A.</b>, Kido Soule, M.C., Kujawinski, E.B., & Chisholm, S. W. (2025). Global niche partitioning of purine and pyrimidine cross-feeding among ocean microbes. <i>Science Advances<i>.
 

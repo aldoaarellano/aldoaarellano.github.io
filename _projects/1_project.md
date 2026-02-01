@@ -46,7 +46,7 @@ Associated references:
 
 <b>Arellano, A.A.</b>, Lee, J. †, Young, E.B., Coon, K.L. Biotic and stochastic determinants of bacterial and fungal community assembly in pitcher plant extrafloral nectaries. <i>(In prep)</i>
 
-<b>Arellano, A.A.</b>\*, Prack, J.L.\*, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>In revision at The ISME Journal</i>
+<b>Arellano, A.A.</b>\*, Prack, J.L.\*, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic micro-ecosystem. <i>The ISME Journal</i>
 
 <b>Arellano, A. A.</b>, Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modulates microbial diversity and function in an aquatic microecosystem. <i>Molecular Ecology</i>.
 
