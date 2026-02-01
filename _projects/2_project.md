@@ -41,7 +41,7 @@ Work in the diapausing mosquito system will also be conducted across temperature
 
 Associated references:
 
-McKee, H.\*, <b>Arellano, A.A.</b>\, Coon, K.L. Crosstalk in the cold: host-microbe interactions in insect dormancy. <i>(Submitted)</i>
+McKee, H.\*, <b>Arellano, A.A.</b>, Coon, K.L. Crosstalk in the cold: host-microbe interactions in insect dormancy. <i>(Submitted)</i>
 
 <b>Arellano, A.A.</b>\*, McKee, H.\*, Lee, J. †, Prack, J.P.†, Young, E.B., Coon, K.L. Bacterial community composition and function associated with population bottlenecks and temperature during pitcher plant mosquito seasonal metabolism. <i>(In prep)</i>
 
