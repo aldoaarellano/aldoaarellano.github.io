@@ -28,7 +28,7 @@ Where Lake Huron is fairly nutrient-poor these days, the western basin of Lake E
       {% include figure.liquid path="assets/img/CIGLR_AIM2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 <div class="caption">
-    Reconstructing community interaction networks in light of environmental chemistry can allow us to constrain inferences of metabolic or trophic interactions. We may also be able to bettern understand how bacterial activities and energy flow change during cHABs and feedback to observed compositional states. 
+    Reconstructing community interaction networks in light of environmental chemistry can allow us to constrain inferences of metabolic or trophic interactions. We may also be able to better understand how bacterial activities and energy flow change during cHABs and feedback to observed compositional states. 
    </div>
 </div>
 </div> 
