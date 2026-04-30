@@ -1,97 +1,263 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
+- title: EDUCATION
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Microbiology
+      institution: Microbiology Doctoral Training Program, University of Wisconsin-Madison
+      year: 2019–2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Dissertation: Host-microbe feedbacks in a tripartite symbiosis'
+        - 'Advisor: Dr. Kerri Coon'
+    - title: B.A. in Biology and Russian Language and Literature
+      institution: Dartmouth College
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with High Honors
+        - 'Honors Thesis: Spatiotemporal variation in cyanobacterial density and colony morphology during a bloom in a naturally eutrophic lake'
+        - 'Advisor: Dr. Kathryn Cottingham'
 
-- title: Experience
+- title: ACADEMIC APPOINTMENTS
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Fellow
+      institution: Cooperative Institute for Great Lakes Research (CIGLR) and Institute for Global Change Biology (IGCB), University of Michigan
+      year: Oct 2025–present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - 'Advisors: Dr. Gregory Dick, Dr. Meghan Duffy'
+    - title: Postdoctoral Fellow
+      institution: Department of Bacteriology, University of Wisconsin-Madison
+      year: Aug 2025–Sep 2025
       description:
-        - Description 1.
-        - Description 2.
+        - 'Advisor: Dr. Kerri Coon'
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: GRANTS AND HONORS
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2026
+      items:
+        - Institute for Global Change Biology Postdoctoral Fellowship; University of Michigan
+    - year: 2025
+      items:
+        - Sigrid Leirmo Memorial Scholarship; University of Wisconsin-Madison
+    - year: 2024
+      items:
+        - O.N. Allen Soil and Environmental Microbiology Grant; University of Wisconsin-Madison
+    - year: 2023
+      items:
+        - 'Gordon Research Conference: Animal-Microbe Symbioses Poster Prize'
+    - year: 2021
+      items:
+        - HHMI Gilliam Fellowship
+        - NSF Graduate Research Fellowship
+    - year: 2020–2021
+      items:
+        - SciMed Graduate Research Scholars Fellowship; University of Wisconsin-Madison
+    - year: 2019–2020
+      items:
+        - NIH Biotechnology Training Grant; University of Wisconsin-Madison
+    - year: 2019
+      items:
+        - NSF Graduate Research Fellowship Honorable Mention
+    - year: 2017
+      items:
+        - Research Experience for Undergraduates; University of Wisconsin-Madison
+        - Thomas B. Roos Memorial Fund Scholarship; Dartmouth College
+    - year: 2016–2017
+      items:
+        - James O. Friedman Presidential Scholarship; Dartmouth College
+    - year: 2015
+      items:
+        - Porter Family Fund for Sustainability Science Research Grant; Dartmouth College
+    - year: 2013–2017
+      items:
+        - Gates Millennium Scholarship
 
-- title: Honors and Awards
+- title: RESEARCH AND WORK EXPERIENCE
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Ecological perspectives on microbiota function in mosquitoes
+      institution: Postdoctoral researcher in the Coon Laboratory, Department of Bacteriology, University of Wisconsin-Madison
+      year: Aug 2025–Sep 2025
+    - title: Host-microbe feedbacks in a tripartite symbiosis
+      institution: PhD trainee in the Coon Laboratory, Microbiology Doctoral Training Program, Department of Bacteriology, University of Wisconsin-Madison
+      year: 2019–2025
+    - title: DermBiont internship
+      institution: Molecular Diagnostics Research Associate, DermBiont Inc., Boston, MA
+      year: May 2022–Aug 2022
+    - title: Integrative study of Prochlorococcus
+      institution: Research Technician in the Chisholm Laboratory, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology
+      year: 2017–2019
+    - title: Spatiotemporal dynamics of diverse taxa in Lake Mývatn, Iceland
+      institution: REU Fellow with the Ives Laboratory, Department of Zoology, University of Wisconsin-Madison; Lake Mývatn Research Station
+      year: 2016–2017
+    - title: Effects of the temporal structuring of thermal regimes on range expansion
+      institution: Field Technician, Department of Biological Sciences, Dartmouth College
+      year: 2016
+    - title: Thermal acclimation effects upon population dynamics in variable thermal environments
+      institution: Undergraduate Researcher, Department of Biological Sciences, Dartmouth College
+      year: 2015–2017
+    - title: Long-term monitoring of bloom-forming cyanobacteria in Lake Sunapee, New Hampshire
+      institution: Field Technician and Laboratory Technician in the Cottingham Laboratory, Department of Biological Sciences, Dartmouth College
+      year: 2015–2017
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: PUBLICATIONS
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - '<b>Peer-reviewed:</b>'
+    - 'Coe, A., Mullet, J.I., Vo, N.N., Berube, P.M., Anjur-Dietrich, M.I., Salcedo, E., Parker, S.M., VonEmster, K., Bliem, C., Arellano, A.A., Castro, K.G., Becker, J.W., & Chisholm, S.W. (2025). ProSynTaxDB: A curated protein database and workflow for taxonomic classification of Prochlorococcus and Synechococcus in metagenomes. <i>Scientific Data</i>.'
+    - 'Arellano, A.A.*, Prack, J.L.*†, & Coon, K.L. (2025). Host-mediated niche construction of bacterial communities in an aquatic microecosystem. <i>The ISME Journal</i>.'
+    - 'Braakman, R., Satinsky, B., O’Keefe, T. J., Longnecker, K., Hogle, S.L., Becker, J. W., Dooley, K., Arellano A.A., Kido Soule, M.C., Kujawinski, E.B., & Chisholm, S. W. (2025). Global niche partitioning of purine and pyrimidine cross-feeding among ocean microbes. <i>Science Advances</i>. Press: https://news.mit.edu/2025/abundant-phytoplankton-feeds-marine-microbe-global-network-0103'
+    - 'Coe, A., Braakman, R., Biller, S.J., Arellano,A.A., Bliem,C., Vo,N.N., von Emster,K., Thomas, E., DeMers, M., Steglich, C., Huisman, J., & Chisholm, S.W. (2024). Emergence of metabolic coupling to the heterotroph Alteromonas promotes dark survival in Prochlorococcus. <i>ISME Communications</i>.'
+    - 'Becker, J. W., Pollak, S., Berta-Thompson, J. W., Becker, K. W., Braakman, R., Dooley, K. D., Hackl, T., Coe, A., Arellano, A.A., LeGault, K.N., Berube, P.M., Biller, S.J., Cubilloz-Ruiz, A., Van Mooy, B.A.S., & Chisholm, S. W. (2024). Novel isolates expand the physiological diversity of Prochlorococcus and illuminate its macroevolution. <i>mBio</i>.'
+    - 'Arellano, A. A., Young, E. B., & Coon, K. L. (2024). An inquiline mosquito modulates microbial diversity and function in an aquatic microecosystem. <i>Molecular Ecology</i>.'
+    - 'Biller, S.J., Coe, A., Arellano, A.A., Dooley, K., Gong, J., Yeager, E.A., Becker, J.W., & Chisholm, S.W. (2023). Environmental and taxonomic drivers of microbial vesicle production in marine ecosystems. <i>Applied and Environmental Microbiology</i>.'
+    - 'Hackl, T, Laurenceau, R, Ankenbrand, M.J., Bliem, C, Cariani, Z, Thomas, E, Dooley, K.D., Arellano, A.A., Hogle, S.L., Berube, P.M., Leventhal, G.E., Luo, E, Eppley, J, Zayed, A.A., Beaulaurier, J, Stephanauskas, R, Sullivan, M.B., Delong, E.F., Biller, S.J., & Chisholm, S.W. (2023). Novel integrative elements and genomic plasticity in ocean ecosystems. <i>Cell</i>. Press: https://news.mit.edu/2023/genetic-information-transfer-ocean-microbe-0105'
+    - 'Arellano, A.A.*, Sommer, A.J.*, & Coon, K.L. (2022). Beyond canonical models: Why a broader understanding of Diptera-microbiota interactions is essential for vector-borne disease control. <i>Evolutionary Ecology</i>.'
+    - 'Arellano, A.A. & Coon K.L. (2022). Bacterial communities in carnivorous pitcher plants colonize and persist in inquiline mosquitoes. <i>Animal Microbiome</i>.'
+    - 'Biller, S.J., Lundeen, R.A., Hmelo, L.R., Becker, K.W., Arellano, A.A., Dooley, K., Heal, K.R., Carlson, L.T., Van Mooy, B.A.S., Ingalls, A.E., & Chisholm, S.W. (2021). Prochlorococcus extracellular vesicles: molecular composition and adsorption to diverse microbes. <i>Environmental Microbiology</i>.'
+    - 'Coe, A., Biller, S.J., Thomas, E., Boulias, K., Bliem, C., Arellano, A.A., Dooley, K., Rasmussen, A.N., LeGault, K., O’Keefe, T.J., Stover, S., Greer, E.L., & Chisholm, S.W. (2021). Coping with darkness: The adaptive response of marine picocyanobacteria to repeated light energy deprivation. <i>Limnology and Oceanography</i>.'
+    - 'Laurenceau, R., Raho, N., Forget, M., Arellano, A. A., & Chisholm, S. W. (2021). Frequency of mispackaging of Prochlorococcus DNA by cyanophage. <i>The ISME Journal</i>.'
+    - 'Kremer, C. T., Fey, S. B., Arellano, A. A., & Vasseur, D. A. (2018). Gradual plasticity alters population dynamics in variable environments: thermal acclimation in the green alga Chlamydomonas reinhartdii. <i>Proceedings of the Royal Society B: Biological Sciences</i>.'
+    - '* authors contributed equally'
+    - '† undergraduate mentee'
+    - '<b>In press/revision:</b>'
+    - 'McKee, H., Arellano, A.A., Young, E.B., Coon, K.L. Cross-talk in the cold: host-microbe interactions in insect diapause. In revision at <i>Annals of the Entomological Society of America</i>.'
+
+- title: TEACHING EXPERIENCE
+  type: list
+  contents:
+    - 'Diversity, Ecology and Evolution of Microorganisms (MICRO 450, 3 cr.), Graduate Teaching Assistant. University of Wisconsin-Madison. Fall 2020.'
+    - 'Introduction to Microbiology (BIOL 46, 4.5 cr.), Undergraduate Teaching Assistant. Dartmouth College. Fall 2017.'
+    - 'Physiological Ecology (BIOL 31, 4.5 cr.), Undergraduate Teaching Assistant, Dartmouth College. Fall 2017.'
+    - 'Principles of Ecology (BIOL 16, 4.5 cr.) Undergraduate Teaching Assistant, Dartmouth College. Fall 2015, Spring 2016.'
+
+- title: PRESENTATIONS
+  type: list
+  contents:
+    - 'International Society for Microbial Ecology (planned 2026). Contributed Works: Talk - Environmental and species-specific determinants of host-associated bacterial community composition in wild daphnids; Poster - Integrating bacterial and eukaryotic food webs under oligotrophic and eutrophic regimes in the Laurentian Great Lakes (USA).'
+    - 'University of Michigan Institute for Global Change Biology Postdoc Symposium (2026). Contributed Works: Talk - From microbes to macrobes: multi-scale dynamics under environmental stress.'
+    - 'University of Michigan Department of Ecology and Evolutionary Biology Tuesday Seminar Series (2025). Contributed Works: Talk - Functional and phenological consequences of host-microbe feedbacks in the pitcher plant mosquito.'
+    - 'Gordon Research Seminar & Gordon Research Conference (2025). Contributed Works: Invited Talk – (GRS) Community dynamics and seasonality of environmentally-acquired mosquito microbiota; Poster – (GRC) Context-dependent impacts of cross-kingdom microbial interactions on mosquito development.'
+    - 'Center for Ecology and the Environment Spring Symposium (2025). Contributed Works: Poster - The pitcher plant mosquito curates the composition and function of its environmentally acquired microbiota.'
+    - 'UW-Madison Department of Bacteriology Raper Symposium (2024). Contributed Works: Poster - The pitcher plant mosquito curates the composition and function of its environmentally acquired microbiota.'
+    - 'International Society for Microbial Ecology (2024). Contributed Works: Poster - The pitcher plant mosquito curates the composition and function of its environmentally acquired microbiota.'
+    - 'Ecological Society of America Annual Meeting (2024). Contributed Works: Invited Talk - Mosquito-mediated structuring of microbial diversity and function in an aquatic microecosystem.'
+    - 'Gordon Research Seminar & Gordon Research Conference (2023). Contributed Works: Poster - An inquiline mosquito modulates microbial diversity and function in the Sarracenia purpurea microsystem. Awarded poster prize at Gordon Research Conference.'
+    - 'Center for Ecology and the Environment Spring Symposium (2023). Contributed Works: Poster - Mosquito-mediated shifts in composition and function of pitcher plant microbial communities.'
+    - 'Microbiology Doctoral Training Program Seminar Series (2023). Contributed Works: Talk - Mosquito-microbiota interactions shape the structure and stability of carnivorous pitcher plant communities.'
+    - 'Howard Hughes Medical Institute Gilliam Fellows Annual Meeting (2023). Contributed Works: Poster - Implicating microbes in the life history of the pitcher plant mosquito.'
+    - 'Biotechnology Training Program Annual Banquet (2023). Contributed Works: Poster - Mosquito-mediated shifts in composition and function of pitcher plant microbial communities.'
+    - 'Howard Hughes Medical Institute Investigator Meeting (2022). Contributed Works: Poster - Mosquito-mediated shifts in function and composition of pitcher plant microbial communities.'
+    - 'Entomological Society of America Annual Meeting (2022). Contributed Works: Invited Talk - Mosquito-microbiota interactions shape the structure and stability of carnivorous pitcher plant communities.'
+    - 'Microbiology Doctoral Training Program Seminar Series (2021). Contributed Works: Talk - Diversity and function of microbes in the pitcher plant mosquito (Wyeomyia smithii).'
+    - 'Howard Hughes Medical Institute Gilliam Fellows Annual Meeting (2021). Contributed Works: Poster - Microbiota function in a keystone mosquito species.'
+    - 'UW-Madison Department of Bacteriology Raper Symposium (2021). Contributed Works: Poster - Microbiota function in a keystone mosquito species.'
+    - 'Boston Bacterial Meeting (2018). Contributed Works: Poster - Environmental controls on extracellular vesicle production by marine microbes.'
+    - 'Ecological Society of America Annual Meeting (2017). Attended as SEEDS program participant (Strategies for Ecology Education, Diversity and Sustainability). Contributed Works: Poster - Spatiotemporal variation in cyanobacterial density and colony morphology during a bloom in a naturally eutrophic lake.'
+    - 'Annual Dartmouth Undergraduate Wetterhahn Symposium (2017). Contributed Works: Poster - Spatiotemporal variation in cyanobacterial density and colony morphology during a bloom in a naturally eutrophic lake.'
+
+- title: MENTORSHIP
+  type: list
+  contents:
+    - 'Heidi McKee, PhD student, UW-Madison, 2025–present'
+    - 'Jelena Lee, Undergraduate researcher, UW-Madison, 2024–present'
+    - 'Joseph Muñoz, ESA-SEEDS mentee, 2024–2025'
+    - 'Julia Kashuk, Undergraduate researcher, UW-Madison, 2023–2024'
+    - 'Journey Prack, Undergraduate researcher, UW-Madison, 2021–2024'
+    - 'Daisy Chew, Undergraduate researcher, UW-Madison, 2021'
+
+- title: OUTREACH AND VOLUNTEER EXPERIENCE
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - UW-Madison WILD-SEEDS guest speaker
+        - Ecological Society of America ESA-SEEDS national meeting peer mentor
+    - year: 2023
+      items:
+        - Microbiology Doctoral Training Program Representative at SACNAS meeting
+    - year: 2022–2024
+      items:
+        - Center for Ecology and the Environment Executive Committee member
+    - year: 2021
+      items:
+        - LGBTQ+ Peer Mentor at UW-Madison
+        - SciMed Graduate Research Scholars peer mentor at UW-Madison
+    - year: 2020
+      items:
+        - Microbiology Doctoral Training Program representative at ABRCMS meeting
+        - 'Wisconsin Science Festival: “Did ya know? Not all mosquitoes want your blood” video exhibit'
+        - 'Darwin Days “Tree of Life” Exploration Station: “Friends and Foes: Mosquitoes”'
+    - year: 2019
+      items:
+        - 'Wisconsin Science Festival: “The Microbe Place” interactive exhibit'
+    - year: 2016–2017
+      items:
+        - America Reads volunteer at Dartmouth College
+    - year: 2015–2017
+      items:
+        - Latinx Peer Mentor at Dartmouth College
+        - First-Year Peer Mentor at Dartmouth College
+
+- title: PROFESSIONAL SERVICE
+  type: list
+  contents:
+    - 'Reviewer for PNAS, Parasites & Vectors, Scientific Reports, Archives of Microbiology, The ISME Journal, BMC Biology, Ecology, npj Biofilms and Microbiomes, Microbial Ecology.'
+
+- title: FIELD AND TRAINING EXPERIENCE
+  type: time_table
+  contents:
+    - title: Genomics cruise for Harmful Algal Blooms (HABs) monitoring and zooplankton survey (Lake Erie)
+      institution: Cooperative Institute for Great Lakes Research
+      year: Summer 2026 (planned)
+      description:
+        - Monthly cruise to several long-term monitoring stations in Western Lake Erie to track seasonal cyanobacterial bloom progression.
+        - Collection of samples for various genomics approaches, including DNA isolation and sequencing.
+        - Collection of zooplankton samples at each deployment to track incidence of parasite infection throughout bloom progression.
+    - title: Zooplankton survey of ephemeral habitats and ponds (Ann Arbor, Michigan)
+      institution: Department of Ecology and Evolutionary Biology, University of Michigan
+      year: Spring–Summer 2026
+      description:
+        - Weekly collections of Daphnia to survey species composition and infection status across freshwater habitats.
+        - Taxonomic assignment to species level of live samples and establishment of laboratory lines of several zooplankton species, dipterans in the genus Chaoborus, and hemipterans in the genus Notonecta.
+        - Live diagnosis of infection in zooplankton samples.
+    - title: Molecular and Cell Biology of Symbiosis (Woods Hole, MA)
+      institution: Marine Biological Laboratory, University of Chicago
+      year: Summer 2025
+      description:
+        - Immersive research-based course spanning microbial symbioses across diverse eukaryotic host species.
+        - Particular emphasis on molecular mechanisms of microbe selection, live-cell imaging of host-microbe interactions, biochemistry and metabolic maintenance of microbiome communities, effects of stress on symbiotic relationships, development and application of genetic tools, gene regulatory and signaling networks associated with symbiosis, establishing novel laboratory models, and evolution of symbiosis across taxa.
+    - title: Cell density and fungal diversity survey of Sarracenia inquiline communities in Cedarburg Bog (Saukville, WI)
+      institution: Microbiology Doctoral Training Program, University of Wisconsin-Madison
+      year: Summer 2023
+      description:
+        - Identification of early successional plant-associated communities in the field followed by collection of water samples for cell density determination and selective isolation of fungal taxa.
+    - title: Microbiota assembly in Sarracenia inquiline communities in Cedarburg Bog (Saukville, WI)
+      institution: Microbiology Doctoral Training Program, University of Wisconsin-Madison
+      year: Summer 2020
+      description:
+        - Ecologically-conscious manipulation of insect density in natural communities of a bog.
+        - Collection and preservation of arthropods for downstream characterization and water sample collection for chemical analysis.
+    - title: Aquatic and Terrestrial Ecology of Lake Mývatn, Iceland
+      institution: National Science Foundation; University of Wisconsin-Madison Research Experience for Undergraduates
+      year: Summer 2016
+      description:
+        - Extensive limnology experience including motor boat operation.
+        - Terrestrial sampling regimes, arthropod sampling, dipteran sampling, phytoplankton sampling, zooplankton sampling, and key identification experience across diverse taxa.
+    - title: Tropical Ecology in Costa Rica
+      institution: Dartmouth College Department of Biological Sciences Foreign Study Program
+      year: Winter 2016
+      description:
+        - Familiarity with diverse tropical systems including lowland rain forest (La Selva and Corcovado), cloud forest (Monteverde), dry forest (Palo Verde and Santa Rosa), pre-montane wet forest (Las Cruces), montane forest (Cuerici), alpine paramo, streams, and wetlands.
+    - title: Marine Biology and Ecology in the Cayman Islands
+      institution: Dartmouth College Department of Biological Sciences Foreign Study Program
+      year: Winter 2016
+      description:
+        - Experience in studies of algae, aquatic plants, invertebrates, and fish, with emphasis on populations, species interactions, community structure and energetics, and reef conservation and management.
+
+- title: SKILLS AND PROFICIENCIES
+  type: list
+  contents:
+    - 'Languages: English, Spanish (fluent), Russian (highly proficient)'
+    - 'Highly proficient in R programming environment and command-line tools for bioinformatics, including amplicon sequencing analysis, metagenomics, and bacterial genome assembly.'
+    - 'Experienced in confocal and epifluorescence microscopy.'
+    - 'Extensive experience in microbial culturing, standard microbiological techniques, molecular techniques, and insect husbandry.'
