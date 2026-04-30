@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: cv_current.pdf
+description: For a full list of papers check out the "publications" tab. Papers and unabridged presentations also detailed in the pdf file linked above. 
 toc:
   sidebar: left
 cv_format: rendercv
